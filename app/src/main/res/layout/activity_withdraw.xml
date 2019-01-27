@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sol.earningapp.smtech.activities.WithdrawActivity">
+
+    <TextView
+        android:id="@+id/tvTotalEarn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:text="My Total Earn Points: 0"
+        android:textSize="23sp" />
+
+    <TextView
+        android:id="@+id/tvLastWithdraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTotalEarn"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Minimum Withdraw Points: 2000 = 100 Rs Paytm cash"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/tvLastWithdraw"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_logo" />
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivLogo"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:padding="5dp"
+        android:text="Paytm Cash will be credited within 24 hours"
+        android:textSize="17sp" />
+
+
+    <EditText
+        android:id="@+id/etPoints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvInfo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_withdraw_et"
+        android:hint="Enter your points to withdraw"
+        android:inputType="numberDecimal"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/btnWithdraw"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/etPoints"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/ic_login_button_bg_selector"
+        android:padding="5dp"
+        android:text="Withdraw"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvInfoBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnWithdraw"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="Withdrawal all over the world via paypal email id"
+        android:textSize="17sp" />
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewWithdraw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/ten"
+        android:layout_marginRight="@dimen/ten"
+        android:layout_marginTop="20dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/withdraw_activity_bottom_banner"></com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,264,353,449,560,660,761,865,964,1075,1197,1285,1367,1464,1551",
+                        "endColumns": "104,103,88,95,110,99,100,103,98,110,121,87,81,96,86,96",
+                        "endOffsets": "155,259,348,444,555,655,756,860,959,1070,1192,1280,1362,1459,1546,1643"
+                    }
+                }
+            ]
+        }
+    ]
+}

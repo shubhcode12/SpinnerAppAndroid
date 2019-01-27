@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,258,343,437,540,635,729,823,915,1030,1141,1223,1305,1400,1485",
+                        "endColumns": "106,95,84,93,102,94,93,93,91,114,110,81,81,94,84,90",
+                        "endOffsets": "157,253,338,432,535,630,724,818,910,1025,1136,1218,1300,1395,1480,1571"
+                    }
+                }
+            ]
+        }
+    ]
+}

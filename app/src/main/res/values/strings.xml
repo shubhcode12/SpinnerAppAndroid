@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">spin App</string>
+    <string name="mobile_required_text">mobile no is required</string>
+
+    <string-array name="dummy2">
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>20</item>
+    </string-array>
+    <string name="title_activity_spin">@string/app_name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Spin for real cash</string>
+    <string name="nav_header_subtitle">Spin and Earn real paytm cash</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- <string name="admob_id">ca-app-pub-6554363642445395~9546045082</string>
+     <string name="spin_activity_top_banner">ca-app-pub-6554363642445395/7314208387</string>
+     <string name="spin_activity_bottom_banner">ca-app-pub-6554363642445395/9567485562</string>
+     <string name="spin_activity_bottom_banner_two">ca-app-pub-6554363642445395/7590799739</string>-->
+    <!--<string name="per_spin_ads">ca-app-pub-1295679460207480/7853651479</string>-->
+    <!--<string name="dashboard_activity_top_banner_one">ca-app-pub-1295679460207480/9813600402</string>-->
+    <!--<string name="dashboard_activity_top_banner_two">ca-app-pub-1295679460207480/4070319131</string>-->
+    <!--<string name="dashboard_activity_bottom_banner_one">ca-app-pub-1295679460207480/9402536860</string>-->
+    <!--<string name="dashboard_interstitial_ads">ca-app-pub-1295679460207480/5288548956</string>-->
+    <!--<string name="withdraw_activity_bottom_banner">34343</string>-->
+    <!--<string name="withdraw_activity_interestitial_ads">ca-app-pub-1295679460207480/7853651479</string>-->
+
+
+    <string name="admob_id">ca-app-pub-1295679460207480~1411532058</string>
+    <string name="spin_activity_top_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="spin_activity_bottom_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="spin_activity_bottom_banner_two">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="per_spin_ads">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="withdraw_activity_interestitial_ads">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="dashboard_activity_top_banner_one">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="dashboard_activity_top_banner_two">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="dashboard_activity_bottom_banner_one">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="dashboard_interstitial_ads">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="withdraw_activity_bottom_banner">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

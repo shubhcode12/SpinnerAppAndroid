@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.adefruandta.spinningwheel:spinningwheel-0.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/spinningwheel-0.1.0.aar/23fdb0aaa656093b54b7bed68d400903/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/spinningwheel-0.1.0.aar/23fdb0aaa656093b54b7bed68d400903/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adefruandta.spinningwheel/spinningwheel/0.1.0/6bf52960272f465a746899ce2d9a756c243ef014/spinningwheel-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

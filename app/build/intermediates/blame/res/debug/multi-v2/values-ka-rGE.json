@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,278,366,465,582,680,775,876,967,1090,1202,1286,1369,1468,1555",
+                        "endColumns": "107,114,87,98,116,97,94,100,90,122,111,83,82,98,86,99",
+                        "endOffsets": "158,273,361,460,577,675,770,871,962,1085,1197,1281,1364,1463,1550,1650"
+                    }
+                }
+            ]
+        }
+    ]
+}

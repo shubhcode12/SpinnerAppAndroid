@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,260,344,443,550,647,743,838,931,1052,1172,1256,1342,1435,1522",
+                        "endColumns": "103,100,83,98,106,96,95,94,92,120,119,83,85,92,86,98",
+                        "endOffsets": "154,255,339,438,545,642,738,833,926,1047,1167,1251,1337,1430,1517,1616"
+                    }
+                }
+            ]
+        }
+    ]
+}

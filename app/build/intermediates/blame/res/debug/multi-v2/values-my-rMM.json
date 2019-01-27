@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,269,362,456,567,665,769,871,968,1081,1200,1287,1372,1476,1560",
+                        "endColumns": "107,105,92,93,110,97,103,101,96,112,118,86,84,103,83,100",
+                        "endOffsets": "158,264,357,451,562,660,764,866,963,1076,1195,1282,1367,1471,1555,1656"
+                    }
+                }
+            ]
+        }
+    ]
+}

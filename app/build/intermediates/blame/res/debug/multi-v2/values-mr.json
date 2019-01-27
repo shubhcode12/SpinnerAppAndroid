@@ -1,0 +1,162 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8ab0ae0bda9b6221643577fc9a1974d7\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,1867",
+                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
+                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,1942"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,9440",
+                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
+                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,9515"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\6d4ea2c56b486927c9fe23623f2205a8\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "66",
+                        "startColumns": "4",
+                        "startOffsets": "7009",
+                        "endColumns": "201",
+                        "endOffsets": "7206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-10.0.1.aar\\ce596b9e6d98b6cfa70604a4dc95ea5a\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "233,331",
+                        "endColumns": "97,88",
+                        "endOffsets": "330,419"
+                    },
+                    "to": {
+                        "startLines": "83,84",
+                        "startColumns": "4,4",
+                        "startOffsets": "9245,9347",
+                        "endColumns": "101,92",
+                        "endOffsets": "9342,9435"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.0.1.aar\\6d0ca9a9c40bc7dbf600f4953e34f0bb\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "298,374,471,555,665,750,922,1043,1149,1261,1364,1462,1538,1635,1732,1836,1912,1988,2061,2137,2234,2331,2422,2507,2592,2662,2756,2848,2945,3058,3211,3340,3469,3567,3659,3760",
+                        "endColumns": "75,96,83,109,84,171,120,105,111,102,97,75,96,96,103,75,75,72,75,96,96,90,84,84,69,93,91,96,112,152,128,128,97,91,100,75",
+                        "endOffsets": "373,470,554,664,749,921,1042,1148,1260,1363,1461,1537,1634,1731,1835,1911,1987,2060,2136,2233,2330,2421,2506,2591,2661,2755,2847,2944,3057,3210,3339,3468,3566,3658,3759,3835"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1944,2024,2125,2213,2327,2416,2592,2717,2827,2943,3050,3152,3232,3333,3434,3542,4007,4087,4164,4244,4345,4446,4541,4630,4719,4793,4891,4987,5088,5205,5358,5491,5624,5726,5822,5927",
+                        "endColumns": "79,100,87,113,88,175,124,109,115,106,101,79,100,100,107,79,79,76,79,100,100,94,88,88,73,97,95,100,116,152,132,132,101,95,104,79",
+                        "endOffsets": "2019,2120,2208,2322,2411,2587,2712,2822,2938,3045,3147,3227,3328,3429,3537,3617,4082,4159,4239,4340,4441,4536,4625,4714,4788,4886,4982,5083,5200,5353,5486,5619,5721,5817,5922,6002"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\914bc738beacd8c22defb59fc6ee12fb\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,389,585,707,817,1021,1140,1265,1473,1582,1767,1892,2093,2275,2361,2453",
+                        "endColumns": "105,195,121,109,203,118,124,207,108,184,124,200,181,85,91,105",
+                        "endOffsets": "388,584,706,816,1020,1139,1264,1472,1581,1766,1891,2092,2274,2360,2452,2558"
+                    },
+                    "to": {
+                        "startLines": "59,60,61,62,63,64,65,67,68,69,70,71,72,73,74,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6007,6117,6313,6439,6553,6757,6880,7211,7419,7532,7717,7846,8047,8233,8323,8419",
+                        "endColumns": "109,195,125,113,203,122,128,207,112,184,128,200,185,89,95,109",
+                        "endOffsets": "6112,6308,6434,6548,6752,6875,7004,7414,7527,7712,7841,8042,8228,8318,8414,8524"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-10.0.1.aar\\cacc399bf38f8284a8f916aa7421f084\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "288,427,571",
+                        "endColumns": "138,143,97",
+                        "endOffsets": "426,570,668"
+                    },
+                    "to": {
+                        "startLines": "36,37,38",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3622,3761,3905",
+                        "endColumns": "138,143,101",
+                        "endOffsets": "3756,3900,4002"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-10.0.1.aar\\a5eba1031e636f000ea6246ea5a77909\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "240",
+                        "endColumns": "103",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "89",
+                        "startColumns": "4",
+                        "startOffsets": "9860",
+                        "endColumns": "107",
+                        "endOffsets": "9963"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.0.1.aar\\bb8bd039f1aae7af60cb88951968714f\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,310,445,546,641,746,832,926,998,1139",
+                        "endColumns": "72,134,100,94,104,85,93,71,140,89",
+                        "endOffsets": "309,444,545,640,745,831,925,997,1138,1228"
+                    },
+                    "to": {
+                        "startLines": "19,76,77,78,79,80,81,82,87,88",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1867,8529,8668,8773,8872,8981,9071,9169,9621,9766",
+                        "endColumns": "76,138,104,98,108,89,97,75,144,93",
+                        "endOffsets": "1939,8663,8768,8867,8976,9066,9164,9240,9761,9855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4b4acebcd49aa2513252edae0ed812a0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "86",
+                        "startColumns": "4",
+                        "startOffsets": "9520",
+                        "endColumns": "100",
+                        "endOffsets": "9616"
+                    }
+                }
+            ]
+        }
+    ]
+}

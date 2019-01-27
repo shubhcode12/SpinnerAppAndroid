@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activities.SpinActivity"
+    tools:showIn="@layout/app_bar_spin">
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/ten"
+        android:layout_marginRight="@dimen/ten"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/spin_activity_top_banner"></com.google.android.gms.ads.AdView>
+
+    <RelativeLayout
+        android:id="@+id/poinsSection"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/adView">
+
+        <TextView
+            android:id="@+id/tvSpinRemain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Today Remaining Spin:0" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:text="Best of luck" />
+
+        <TextView
+            android:id="@+id/tvTotalPoint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="My total Point:0"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <com.adefruandta.spinningwheel.SpinningWheelView
+        android:id="@+id/wheel"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_centerInParent="true"
+        app:wheel_arrow_color="@android:color/black"
+        app:wheel_colors="@array/rainbow_dash"
+        app:wheel_items="@array/dummy2"
+        app:wheel_stroke_color="@android:color/black"
+        app:wheel_stroke_width="5dp"
+        app:wheel_text_size="20sp" />
+
+    <RelativeLayout
+        android:id="@+id/rotate"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_spin_circle"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:clickable="false"
+            android:focusable="false"
+            android:gravity="center"
+            android:text="SPIN"
+            android:textColor="@android:color/white"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnWithdrawRequest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/poinsSection"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/ic_login_button_bg_selector"
+        android:padding="5dp"
+        android:text="Withdraw \nRequests"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:visibility="gone" />
+
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wheel"
+        android:layout_marginLeft="@dimen/ten"
+        android:layout_marginRight="@dimen/ten"
+        android:layout_marginTop="20dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/spin_activity_bottom_banner"></com.google.android.gms.ads.AdView>
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/adView2"
+        android:layout_marginLeft="@dimen/ten"
+        android:layout_marginRight="@dimen/ten"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/spin_activity_bottom_banner_two"></com.google.android.gms.ads.AdView>
+</RelativeLayout>

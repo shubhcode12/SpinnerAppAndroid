@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091143606606",
+    "firebase_url": "https://spin-to-win-test.firebaseio.com",
+    "project_id": "spin-to-win-test",
+    "storage_bucket": "spin-to-win-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091143606606:android:1cd09aa22fd86f06",
+        "android_client_info": {
+          "package_name": "sol.earningapp.smtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091143606606-b8ui3q1qeqi03meicq0b1tiom2midkv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC63GuklUo8X3TtiFfdHCTSh-rhhJhPXhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

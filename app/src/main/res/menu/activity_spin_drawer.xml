@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_Profile"
+            android:icon="@drawable/user"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_Dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_Withdraw"
+            android:icon="@drawable/withdraw"
+            android:title="Withdraw" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_Logout"
+                android:icon="@drawable/logout"
+                android:title="Logout" />
+            <item
+                android:id="@+id/nav_Share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share and Earn" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk-rKZ\\values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,262,359,455,564,659,750,841,930,1044,1159,1245,1328,1429,1513",
+                        "endColumns": "109,96,96,95,108,94,90,90,88,113,114,85,82,100,83,96",
+                        "endOffsets": "160,257,354,450,559,654,745,836,925,1039,1154,1240,1323,1424,1508,1605"
+                    }
+                }
+            ]
+        }
+    ]
+}

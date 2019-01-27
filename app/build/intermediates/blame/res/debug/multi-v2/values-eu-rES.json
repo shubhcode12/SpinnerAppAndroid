@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,253,339,437,542,637,732,828,921,1033,1157,1243,1333,1426,1513",
+                        "endColumns": "101,95,85,97,104,94,94,95,92,111,123,85,89,92,86,93",
+                        "endOffsets": "152,248,334,432,537,632,727,823,916,1028,1152,1238,1328,1421,1508,1602"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,263,350,452,561,657,751,843,937,1055,1170,1254,1335,1431,1518",
+                        "endColumns": "109,97,86,101,108,95,93,91,93,117,114,83,80,95,86,94",
+                        "endOffsets": "160,258,345,447,556,652,746,838,932,1050,1165,1249,1330,1426,1513,1608"
+                    }
+                }
+            ]
+        }
+    ]
+}

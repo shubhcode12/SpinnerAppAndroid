@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,350,442,559,657,756,854,951,1063,1178,1263,1345,1441,1527",
+                        "endColumns": "101,101,90,91,116,97,98,97,96,111,114,84,81,95,85,92",
+                        "endOffsets": "152,254,345,437,554,652,751,849,946,1058,1173,1258,1340,1436,1522,1615"
+                    }
+                }
+            ]
+        }
+    ]
+}

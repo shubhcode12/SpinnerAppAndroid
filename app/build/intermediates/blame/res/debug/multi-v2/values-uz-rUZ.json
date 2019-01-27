@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lenovo\\Desktop\\SpinnerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\89d5a32214a959f25d288acd5b27370d\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,263,369,466,581,678,773,872,964,1080,1192,1287,1372,1475,1560",
+                        "endColumns": "108,98,105,96,114,96,94,98,91,115,111,94,84,102,84,96",
+                        "endOffsets": "159,258,364,461,576,673,768,867,959,1075,1187,1282,1367,1470,1555,1652"
+                    }
+                }
+            ]
+        }
+    ]
+}

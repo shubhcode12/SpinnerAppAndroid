@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/AliceBlue"
+    tools:context=".activities.SignupActivity">
+
+    <RelativeLayout
+        android:id="@+id/rlLable"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/teal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="SIGN UP"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/ibtnBack"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="3dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_back" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="390dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical"
+        android:weightSum="2">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".10" />
+
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etMobile"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Paytm mobile number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Paypal email id"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Enter password"
+            android:inputType="textWebPassword" />
+
+        <EditText
+            android:id="@+id/etCfPass"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Confirm password"
+            android:inputType="textWebPassword" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".05" />
+
+        <EditText
+            android:id="@+id/etRef"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:hint="Referral No(Optional)"
+            android:inputType="textAutoCorrect" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".05" />
+
+        <Button
+            android:id="@+id/ibtnSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight=".25"
+            android:background="@drawable/ic_login_button_bg_selector"
+            android:text="Register"
+            android:textColor="@color/white" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".05" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/lnLogin"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".40"
+            android:text="Already register?"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvLoginNow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".20"
+            android:text="Login"
+            android:textColor="@color/blue"
+            android:textSize="18sp" />
+    </LinearLayout>
+</RelativeLayout>
