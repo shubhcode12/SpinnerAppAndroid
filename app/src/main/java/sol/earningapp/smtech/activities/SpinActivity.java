@@ -365,3 +365,5 @@ public class SpinActivity extends AppCompatActivity
 
     }
 }
+
+// to check the github repo

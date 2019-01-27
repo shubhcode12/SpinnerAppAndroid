@@ -32,3 +32,4 @@
         android:text="Dev: SmTeech Developers"
         android:textColor="@android:color/white" />
 </RelativeLayout>
+
